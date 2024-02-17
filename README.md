@@ -1,2 +1,2 @@
 # Robotic-manipulator
-simulink
+matlab
